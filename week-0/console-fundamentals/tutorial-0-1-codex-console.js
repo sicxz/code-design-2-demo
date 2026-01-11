@@ -13,6 +13,8 @@ console.log("Hello internet!");
 // --------------------------------------------
 console.log("pizza");
 
+
+// --------------------------------------------
 // EXERCISE 3: LETTER TREE
 // The pattern: a, b c, d e f, g h i j, k
 // --------------------------------------------
@@ -46,6 +48,9 @@ console.log("Salt and black pepper to taste")
 // EXERCISE 5: RECEIPT
 // Format a receipt from a recent purchase
 // --------------------------------------------
+// Write code below 💖
+console.log("==================================")
+console.log("         McDONALD'S RECEIPT       ")
 console.log(" ----------------------------------")
 console.log("            Order Details          ")
 console.log(" ----------------------------------")
