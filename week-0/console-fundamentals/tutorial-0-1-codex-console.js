@@ -3,33 +3,31 @@
 // Student: [Your Name]
 // Date: [Date]
 // ============================================
-​// --------------------------------------------
+// --------------------------------------------
 // EXERCISE 1: SETTING UP
 // --------------------------------------------
 console.log("Hello internet!");
-​// --------------------------------------------
+// --------------------------------------------
 // EXERCISE 2: THE CONSOLE
 // Your favorite food
 // --------------------------------------------
-​console.log("pizza");
+console.log("pizza");
 
-​
-// --------------------------------------------
 // EXERCISE 3: LETTER TREE
 // The pattern: a, b c, d e f, g h i j, k
 // --------------------------------------------
-​console.log("   a   ");
+console.log("   a   ");
 console.log("  b c  ");
 console.log(" d e f  ");
 console.log("g h i j  ");
 console.log("   k  ");
-​
+
 // --------------------------------------------
 // EXERCISE 4: SECRET RECIPE
 // Use comments to document your recipe
 // Include a "secret ingredient" comment
 // --------------------------------------------
-​// Write code below 💖
+// Write code below 💖
 console.log("This is my favorite food recipe") 
 console.log("Lemon Garlic Salmon Tray Bake") 
 console.log("This recipe is quick to prepare and makes cleanup easy.") 
@@ -43,14 +41,11 @@ console.log("1 lemon, half thinly sliced, half for juice")
 console.log("1 tsp dried oregano") 
 console.log("Salt and black pepper to taste") 
 /*Optional: fresh parsley for garnish*/
-​
+
 // --------------------------------------------
 // EXERCISE 5: RECEIPT
 // Format a receipt from a recent purchase
 // --------------------------------------------
-​// Write code below 💖
-console.log("==================================")
-console.log("         McDONALD'S RECEIPT       ")
 console.log(" ----------------------------------")
 console.log("            Order Details          ")
 console.log(" ----------------------------------")
