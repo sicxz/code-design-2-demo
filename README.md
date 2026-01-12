@@ -1,6 +1,7 @@
 # DESN 378: Code + Design 2
 
 🔗 **[Learning Log](hhttps://github.com/sicxz/code-design-2-demo)**
+
 🔗 **[DESN368 Portfolio](https://yourusername.github.io/desn368-portfolio-repo)** _FYI, this is just the URL to your repo; if it's still on Netlify, then use that. _
 
 ---
