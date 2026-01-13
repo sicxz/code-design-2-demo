@@ -25,6 +25,41 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 Update this section each week with observations, breakthroughs, and questions.
 
+
+## Week 0 // The Setup
+​
+### What I Learned
+<!-- What concepts clicked for you? What was new? -->
+​
+​
+### What Was Hard
+<!-- What frustrated you? What didn't make sense? -->
+​
+​
+### How I Used AI
+<!-- Did you use Copilot, ChatGPT, etc.? How did it help or not help? -->
+​
+​
+### What's Still Unclear
+<!-- What questions do you still have? What needs more practice? -->
+​
+​
+### Work Completed (Week 0)
+​
+**Engage**
+- [ ] Portfolio Audit
+​
+**Learn**
+- [ ] Console Explorer
+- [ ] Codedex Console Fundamentals
+​
+**Reflect**
+- [ ] Visual Notes: Variables and Strings
+​
+**Build**
+- [ ] The Setup
+- [ ] The Behavioral Layer
+
 ### Week 1: Systems That Respond
 *Coming soon...*
 
